@@ -1,8 +1,10 @@
 {
   "version": 3,
   "sourceRoot": "",
-  "sources": [],
+  "sources": [
+    "style.sass"
+  ],
   "names": [],
-  "mappings": "",
+  "mappings": "AAAA;EACE;EACA;EACA;;;AAEF;EACE;EACA;EACA;EACA;EACA;EACA;EACA;;;AAEF;EACE;EACA;EACA;;;AAEF;EACE;EACA;;;AAEF;EACE;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;;AAEF;EACE;EACA;EACA;EACA",
   "file": "style.css"
 }
